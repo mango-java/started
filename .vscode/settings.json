@@ -1,0 +1,7 @@
+{
+    "java.compile.nullAnalysis.mode": "automatic",
+    "editor.renderWhitespace": "boundary",
+    "editor.insertSpaces": false,
+    "editor.tabSize": 2,
+    "java.configuration.updateBuildConfiguration": "interactive"
+}
